@@ -1,0 +1,9 @@
+C:\Code\Csharp\Hello\Hello\bin\Release\Hello.exe.config
+C:\Code\Csharp\Hello\Hello\bin\Release\Hello.exe
+C:\Code\Csharp\Hello\Hello\bin\Release\Hello.pdb
+C:\Code\Csharp\Hello\Hello\obj\Release\Hello.csprojResolveAssemblyReference.cache
+C:\Code\Csharp\Hello\Hello\obj\Release\Hello.exe
+C:\Code\Csharp\Hello\Hello\obj\Release\Hello.pdb
+C:\Tmp\Hello2.exe\Hello.exe.config
+C:\Tmp\Hello2.exe\Hello.exe
+C:\Tmp\Hello2.exe\Hello.pdb
